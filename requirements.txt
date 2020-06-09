@@ -1,0 +1,12 @@
+pip==20.1.1
+notebook==6.0.3
+jupyterlab==2.1.4
+kubernetes==11.0.0
+openshift==0.11.1
+humanize==2.4.0
+ipywidgets==7.5.1
+tqdm==4.46.1
+pandas==1.0.4
+matplotlib==3.2.1
+plotly==4.8.1
+psutil==5.7.0
